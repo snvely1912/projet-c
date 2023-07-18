@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1689465922 source:c:\users\lamine ndiaye\desktop\lobat\immo.c
+	<stdio.h>
+	<string.h>
+	"LOBAT.h"
+
+1689455323 c:\users\lamine ndiaye\desktop\lobat\lobat.h
+	<stdio.h>
+
+1689466522 source:c:\users\lamine ndiaye\desktop\lobat\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lobat.h"
+
